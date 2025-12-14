@@ -6,4 +6,8 @@
 
 NOA-SVM 将新兴的**星鸦优化算法 (Nutcracker Optimization Algorithm, NOA)** 引入，构建了一个智能化的优化框架，用于同时寻找最优的 SVM 关键参数和特征加权系数，从而显著提升模型的分类准确率和鲁棒性。
 
+<img src="assets/flowchart.svg"> 
+
 NOA原论文：[Nutcracker optimizer: A novel nature-inspired metaheuristic algorithm for global optimization and engineering design problems](https://www.sciencedirect.com/science/article/pii/S0950705122013442)
+
+机器学习课程设计 作业
