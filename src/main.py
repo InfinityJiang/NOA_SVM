@@ -44,3 +44,5 @@ result = evaluater.K_fold(10)
 # model = Meta_MultiClassSVM()
 # evaluater = evaluate(model.fit, model.predict_score, X, y)
 # result = evaluater.roc(0.7)
+
+print(result)
